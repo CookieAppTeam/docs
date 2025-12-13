@@ -1,0 +1,4 @@
+site_name: Cookie Docs
+site_url: https://docs.cookieapp.me
+theme:
+  name: material

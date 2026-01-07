@@ -41,4 +41,3 @@ Discord.
 ## Support
 If you need help or have any questions, join our [Support Server](https://cookieapp.me/support)
 and create a new post in our `#❓cookie-support` forum.
-

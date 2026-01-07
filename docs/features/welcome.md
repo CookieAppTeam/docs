@@ -16,5 +16,3 @@ new member joins. These texts will be inserted into your custom message design.
 /// caption
 Settings menu for welcome messages.
 ///
-
-

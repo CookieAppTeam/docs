@@ -41,10 +41,16 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/CookieAppTeam/docs
+      name: GitHub Repository
     - icon: fontawesome/brands/discord
       link: https://discord.gg/zfvbjTEzv6
-    - icon: material/web
+      name: Discord Server
+    - icon: fontawesome/solid/cookie
       link: https://cookieapp.me/
+      name: Cookie's Website
+    - icon: material/shield-check
+      link: https://legal.cookieapp.me
+      name: Legal Notice & Privacy Policy
 plugins:
   - glightbox
   - search

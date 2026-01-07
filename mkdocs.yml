@@ -2,6 +2,7 @@ site_name: Cookie Docs
 site_url: https://docs.cookieapp.me
 theme:
   name: material
+  language: en
   logo: https://cdn.cookieapp.me/bot/logo.png
   favicon: https://cdn.cookieapp.me/bot/logo.png
   font:
@@ -46,6 +47,7 @@ extra:
       link: https://cookieapp.me/
 plugins:
   - glightbox
+  - search
 nav:
   - 🏠 Home: index.md
   - ✨ Customization: customization.md

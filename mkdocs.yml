@@ -2,3 +2,65 @@ site_name: Cookie Docs
 site_url: https://docs.cookieapp.me
 theme:
   name: material
+  logo: https://cdn.cookieapp.me/bot/logo.png
+  favicon: https://cdn.cookieapp.me/bot/logo.png
+  font:
+    text: Roboto
+  features:
+    # - navigation.tabs
+    - navigation.indexes
+    - navigation.footer
+  palette:
+    # Dark mode
+    - scheme: slate
+      primary: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    # Light mode
+    - scheme: default
+      primary: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+markdown_extensions:
+  - tables
+  - pymdownx.tabbed:
+      alternate_style: true
+  # Admonitions
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # Images
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+extra:
+  homepage: https://cookieapp.me
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/CookieAppTeam/docs
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/zfvbjTEzv6
+    - icon: material/web
+      link: https://cookieapp.me/
+plugins:
+  - glightbox
+nav:
+  - 🏠 Home: index.md
+  - ✨ Customization: customization.md
+  - 🎲 Games: games.md
+  - 🍪 Economy: economy.md
+  - 🧰 Server Features:
+    - features/index.md
+    - Birthday: features/birthday.md
+    - Giveaway: features/giveaway.md
+    - Leveling: features/leveling.md
+    - Server Banner: features/banner.md
+    - Stats: features/stats.md
+    - TempVoice: features/tempvoice.md
+    - Tickets: features/tickets.md
+    - Welcome Messages: features/welcome.md
+  - 👥 User Features: user_features.md
+  - 💎 Cookie Premium: premium.md
+  - ❓ FAQ: faq.md

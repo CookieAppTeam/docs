@@ -54,6 +54,10 @@ extra:
 plugins:
   - glightbox
   - search
+  - git-revision-date-localized
+  - git-committers:
+      repository: CookieAppTeam/docs
+      branch: main
 nav:
   - 🏠 Home: index.md
   - ✨ Customization: customization.md

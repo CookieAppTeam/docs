@@ -1,2 +1,5 @@
 .idea
+
+# MkDocs
 site
+.cache

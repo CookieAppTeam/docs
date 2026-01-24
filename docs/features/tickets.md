@@ -12,8 +12,7 @@ Cookie offers a **fully customizable** ticket system that allows users to contac
 
 You can create multiple **ticket categories** to organize your tickets.
 
-- Use `/ticket category create` to create a new ticket category.
-- Use `/ticket category edit` to edit an existing ticket category.
+- Use `/ticket categories` to create and edit ticket categories.
 
 ## Ticket Moderators
 You can assign specific **roles** as ticket moderators who will have access to tickets.

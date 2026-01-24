@@ -2,6 +2,10 @@
 
 Cookie can send birthday greeting to channel on your server.
 
+!!! info "Birthday Notification Time"
+    Birthday notifications will be sent at **midnight** in the server's time zone.
+    You can set your time zone using `/settings`. 
+
 ---
 
 ## Member Setup

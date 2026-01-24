@@ -8,10 +8,9 @@ Cookie provides a **customizable** level system for both **text** and **voice** 
     Members can disable their level-up ping using `/notifications`.
 
 ## ⚙️ Setup
-1. Activate level-up messages with `/settings`.
-2. Configure all settings with `/level settings`. By default, level-up messages will be sent
+1. Configure all settings with `/level settings`. By default, level-up messages will be sent
 in the channel where the user leveled up.
-3. You can customize level-up messages using the `/messages` command.
+2. You can customize level-up messages using the `/messages` command.
 
 ## ✏️ Text Levels
 With **text levels**, users can collect XP when they write messages on your server.

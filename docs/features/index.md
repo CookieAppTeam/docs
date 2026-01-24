@@ -7,7 +7,6 @@ If you want to learn more, we have a dedicated page for each system.
 ## 📈 [Leveling](leveling.md)
 Cookie has a built-in leveling system for **text** and **voice** activity.
 
-- Activate level-up messages with `/settings`.
 - Configure the level system with `/level settings`.
 
 ---

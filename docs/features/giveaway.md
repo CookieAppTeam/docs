@@ -1,7 +1,7 @@
 # Giveaways
 Create giveaways in your server to reward your community members!
 
-- Use `/giveaway create` to start a new giveaway.
+- Use `/giveaway start` to start a new giveaway.
 
 You can choose different **requirements** to limit who can enter the giveaway (1).
 { .annotate }

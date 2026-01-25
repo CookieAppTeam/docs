@@ -1,7 +1,7 @@
 # Giveaways
 Create giveaways in your server to reward your community members!
 
-- Use `/giveaway create` to start a new giveaway.
+- Use `/giveaway start` to start a new giveaway.
 
 You can choose different **requirements** to limit who can enter the giveaway (1).
 { .annotate }
@@ -20,8 +20,5 @@ You can choose different **requirements** to limit who can enter the giveaway (1
 Manage giveaway settings with an intuitive interface.
 ///
 
-## View Participants
-Use `/giveaway participants` to view the list of users who have entered a giveaway.
-
-## Redraw Giveaway
-If you need to select a new winner for a giveaway, use `/giveaway reroll`.
+## View & Manage Giveaways
+Use `/giveaway manage` to view participants, redraw winners, or end active giveaways.

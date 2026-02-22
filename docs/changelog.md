@@ -4,7 +4,7 @@ hide:
 ---
 
 # Changelog
-Here you can find new features and improvements in each version of Cookie. 
+Here you can find new features and improvements in each version of Cookie.
 
 !!! info
     We fix bugs with every release, but they are not listed here. Join our 
@@ -14,13 +14,13 @@ Here you can find new features and improvements in each version of Cookie.
 ## 2026.2.1
 
 ### 🎉 Giveaway
-- Added default value for giveaway time.
+- Added a default value for the giveaway time.
 - Improved `/giveaway manage` by adding a button to jump to the giveaway message.
-- Order giveaways in `/giveaway manage` by their end time and show the end time in the giveaway selection.
+- Ordered giveaways in `/giveaway manage` by their end time and show the end time in the giveaway selection.
 
 ### 🍪 Economy
 - Added interest for `/safe` deposits with weekly payouts.
-- Added a new design for the `/safe`.
+- Added a new design for `/safe`.
 - Improved withdrawal and deposits for `/safe`.
 
 ### 🎲 Counting Game
@@ -34,32 +34,32 @@ Here you can find new features and improvements in each version of Cookie.
 This update makes Cookie's commands and settings **more organized**!
 
 ### 🎉 Giveaways
-- You can now use `/giveaway manage` to view participants, redraw winners, or end giveaways.  
-- New giveaway design with `/giveaway start`.
+- You can now use `/giveaway manage` to view participants, redraw winners, or end giveaways.
+- New design for giveaway messages.
 
 ### 🍪 Economy  
-- Some random items can now be used with `/inventory`.  
-- Sell your items directly in the inventory, no longer with `/sell`.  
+- Some random items can now be used with `/inventory`.
+- Sell your items directly in the inventory, no longer with `/sell`.
 - `/achievements` now shows the exact progress value.
 
 ### 📈 Level System  
 - All level settings have been consolidated under `/level settings`.
 - Settings for XP amount and XP cooldown have been added.
 - You can now decide whether all voice minutes or only valid voice minutes are counted.
-- Voice XP can now be adjusted manually.
+- Voice XP for individual members can now be adjusted manually.
 
 ### 🎫 Tickets  
-- You can now manually adjust the **order** of ticket categories.  
-- You can now clearly manage ticket categories with `/ticket categories`.  
-- The ticket blacklist settings have been consolidated under `/ticket blacklist`.  
+- You can now manually adjust the **order** of ticket categories.
+- You can now manage all ticket categories with `/ticket categories`.
+- The ticket blacklist settings have been consolidated under `/ticket blacklist`.
 - New design for ticket moderator settings with `/ticket moderators`.
 
 ### ✏️ Message Editor  
-- With `/messages`, you can now move components between containers and the main message  .
+- With `/messages`, you can now move components between containers and the main message.
 - You can now convert existing embeds from Cookie into the new Discord components (`Right-click > Apps > Edit Message`).
 
 ### ⚙️ Settings  
-- With `/settings`, you can now access the settings of other systems.  
+- With `/settings`, you can now access the settings of other systems.
 - All **TempVoice** settings have been consolidated under `/tempvoice`.
 
 ### 🎲 Counting Game  

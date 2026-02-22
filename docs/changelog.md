@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Changelog
 Here you can find new features and improvements in each version of Cookie. 
 

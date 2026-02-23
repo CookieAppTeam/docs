@@ -11,6 +11,12 @@ Here you can find new features and improvements in each version of Cookie.
     [Support Server](https://cookieapp.me/support) for more details about bug reports and fixes.
 
 
+## 2026.2.2
+
+### ✍🏼 Changelog
+- This changelog has been added to the documentation.
+
+
 ## 2026.2.1
 
 ### 🎉 Giveaway

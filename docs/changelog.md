@@ -14,7 +14,7 @@ Here you can find new features and improvements in each version of Cookie.
 ## 2026.3.1
 
 ### 🎫 Ticket System
-- New design for `/ticket settings`.
+- New design and structure for `/ticket settings`.
 - `/ticket setup` was removed in favor of `/ticket settings`.
 - Improved ticket limit settings.
 

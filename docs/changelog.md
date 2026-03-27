@@ -11,6 +11,37 @@ Here you can find new features and improvements in each version of Cookie.
     [Support Server](https://cookieapp.me/support) for more details about bug reports and fixes.
 
 
+## 2026.3.1
+
+### 🎫 Ticket System
+- New design for `/ticket settings`.
+- `/ticket setup` was removed in favor of `/ticket settings`.
+- Improved ticket limit settings.
+
+### ✏️ New Message Design
+- New design for `/give`, `/orders`, `/birthday`, `/stats` and `/level settings`.
+- Many messages have been updated to use Discord's new component system.
+
+### 💎 Premium
+- `/premium api` was merged into `/premium info`.
+
+
+## 2026.3.0
+
+### 🔊 Voice Streak
+- When using `/stats user`, you can now view your longest voice session in the selected time period.
+
+### ⚙️ Settings
+- You can now use the user language (if available) instead of the server language to support multiple languages.
+
+### 🎲 Games
+- You can now play Tic-tac-toe against Cookie.
+- New design for Tic-tac-toe, WordGuesser and Rock Paper Scissors.
+
+### 🍪 Vote Reward
+- You can earn a role on the Support Server by voting for Cookie on top.gg.
+
+
 ## 2026.2.2
 
 ### ✍🏼 Changelog
@@ -34,6 +65,8 @@ Here you can find new features and improvements in each version of Cookie.
 
 ### ✏️ Join Message
 - Updated message when Cookie joins a new server to include a link to the documentation.
+
+
 
 
 ## 2026.2.0

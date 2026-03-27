@@ -67,8 +67,6 @@ Here you can find new features and improvements in each version of Cookie.
 - Updated message when Cookie joins a new server to include a link to the documentation.
 
 
-
-
 ## 2026.2.0
 This update makes Cookie's commands and settings **more organized**!
 

@@ -1,8 +1,7 @@
 # Tickets
 Cookie offers a **fully customizable** ticket system that allows users to contact moderators.
 
-- Use `/ticket setup` to create a new ticket panel.
-- Use `/ticket settings` to configure all further ticket settings.
+- Use `/ticket settings` to configure all ticket settings.
 
 !!! hint "Custom Message Design"
     You can customize ticket messages using the `/messages` command.

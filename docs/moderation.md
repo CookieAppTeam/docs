@@ -23,3 +23,11 @@ You can right-click on a user to perform quick moderation actions.
 - Use `/clear` to bulk delete messages in a channel.
 - Use `/delete_post` to delete a forum post. If you have logging configured, 
   a transcript of the deleted post will be saved in the log channel.
+
+## Automatic Punishments
+With `/mod settings`, you can set up automatic punishments for a specific number of violations.
+
+For systems like Anti-Spam, you can then set the punishment type:
+
+- **Direct Punishments**: Users will immediately receive the configured punishment on their first offense.
+- **Violation**: Users receive a violation for each offense and are punished when they reach the specified number of violations.

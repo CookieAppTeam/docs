@@ -14,10 +14,11 @@ Use `/mod user` to moderate a specific user.
 View user information and perform moderation actions.
 ///
 
-## User Commands
-You can right-click on a user to perform quick moderation actions.
 
-- `Right-click > Apps > Cookie`
+!!! tip "User Commands"
+    You can right-click on a user to perform quick moderation actions.
+    
+    - `Right-click > Apps > Cookie`
 
 ## Automatic Punishments
 With `/mod settings`, you can set up automatic punishments for a specific number of violations.

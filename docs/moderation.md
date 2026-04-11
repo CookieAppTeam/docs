@@ -31,3 +31,8 @@ For systems like Anti-Spam, you can then set the punishment type:
 
 - **Direct Punishments**: Users will immediately receive the configured punishment on their first offense.
 - **Violation**: Users receive a violation for each offense and are punished when they reach the specified number of violations.
+
+![Userinfo](https://cdn.cookieapp.me/docs/mod/antispam.png){ width="400" }
+/// caption
+Choose violations or direct punishments for automatic moderation actions.
+///

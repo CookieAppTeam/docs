@@ -19,11 +19,6 @@ You can right-click on a user to perform quick moderation actions.
 
 - `Right-click > Apps > Cookie`
 
-## Other Commands
-- Use `/clear` to bulk delete messages in a channel.
-- Use `/delete_post` to delete a forum post. If you have logging configured, 
-  a transcript of the deleted post will be saved in the log channel.
-
 ## Automatic Punishments
 With `/mod settings`, you can set up automatic punishments for a specific number of violations.
 
@@ -36,3 +31,8 @@ For systems like Anti-Spam, you can then set the punishment type:
 /// caption
 Choose violations or direct punishments for automatic moderation actions.
 ///
+
+## Other Commands
+- Use `/clear` to bulk delete messages in a channel.
+- Use `/delete_post` to delete a forum post. If you have logging configured, 
+  a transcript of the deleted post will be saved in the log channel.

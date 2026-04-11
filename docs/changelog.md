@@ -11,6 +11,16 @@ Here you can find new features and improvements in each version of Cookie.
     [Support Server](https://cookieapp.me/support) for more details about bug reports and fixes.
 
 
+## 2026.4.0
+
+### 🚬 [Moderation](moderation.md)
+Cookie now has a complete moderation system!
+
+- Use `/mod settings` to configure logging, auto-moderation, and much more.
+- Use `/mod user` to view user information and perform moderation actions.
+- Right-click on a user and select `Apps > Cookie` to perform quick moderation actions.
+- Added `/clear` and `/delete_post` commands for bulk deleting messages and forum posts.
+
 ## 2026.3.1
 
 ### 🎫 Ticket System

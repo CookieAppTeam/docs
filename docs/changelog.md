@@ -21,6 +21,7 @@ Here you can find new features and improvements in each version of Cookie.
 ### ⚙️ Settings
 - `/settings` is now more organized and easier to navigate.
 - A cooldown has been added to the error log channel to prevent spam in case of multiple errors.
+- You can now create more **ticket categories** without Cookie Premium.
 
 ### 🏷️ Server Tag Rewards
 - Use `/settings` to reward users that use your **server tag** with a role!

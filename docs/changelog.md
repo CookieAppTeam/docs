@@ -11,6 +11,27 @@ Here you can find new features and improvements in each version of Cookie.
     [Support Server](https://cookieapp.me/support) for more details about bug reports and fixes.
 
 
+## 2026.4.1
+
+### 🎨 New Design
+- `/rank` now sends an image instead of an embed.
+- New design for `/info`, `/profile` and many more messages.
+- The **server banner** design has been adjusted to fit on mobile devices as well.
+
+### ⚙️ Settings
+- `/settings` is now more organized and easier to navigate.
+- A cooldown has been added to the error log channel to prevent spam in case of multiple errors.
+
+### 🏷️ Server Tag Rewards
+- Use `/settings` to reward users that use your **server tag** with a role!
+
+### 🔊 TempVoice
+- Cookie will create TempVoice channels in case of a permission error and display missing permissions.
+
+### 🎲 Counting Game
+- Cookie will now display the correct number when the message with the latest count is deleted.
+
+
 ## 2026.4.0
 
 ### 🚬 [Moderation](moderation.md)

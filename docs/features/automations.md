@@ -5,7 +5,7 @@
 2. Choose a trigger that will activate the automation.
 3. Select the action that will be executed when the trigger is activated.
 
-![Automations](https://cdn.cookieapp.me/docs/automations/automations.png){ width="400" }
+![Automations](https://cdn.cookieapp.me/docs/automations/automations.png){ width="250" }
 /// caption
 Manage automatic actions based on triggers.
 ///

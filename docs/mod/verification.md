@@ -10,8 +10,13 @@ Let users verify themselves to get access to the server.
 3. Choose a role that users will receive upon successful verification.
 
 ## Suspicious Users
-Optionally, you can enable verification only for suspicious users. You can choose the following criteria to determine suspicious users:
+Optionally, you can enable verification only for suspicious users.
 
-- New accounts (created within the past X days)
-- Accounts without a profile picture
-- Accounts with suspicious usernames, e.g. ending with random numbers
+- You can also choose to send a log message or assign a role when a suspicious user joins the server.
+
+!!! tip "Define Suspicious Users"
+    You can choose the following criteria to determine suspicious users:
+    
+    - New accounts (created within the past X days)
+    - Accounts without a profile picture
+    - Accounts with suspicious usernames, e.g. ending with random numbers

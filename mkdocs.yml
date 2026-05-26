@@ -63,7 +63,11 @@ nav:
   - ✨ Customization: customization.md
   - 🎲 Games: games.md
   - 🍪 Economy: economy.md
-  - 🚬 Moderation: moderation.md
+  - 🚬 Moderation:
+    - mod/index.md
+    - User Reports: mod/reports.md
+    - Team: mod/team.md
+    - Verification: mod/verification.md
   - 🧰 Server Features:
     - features/index.md
     - Birthday: features/birthday.md

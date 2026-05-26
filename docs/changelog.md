@@ -21,7 +21,7 @@ Here you can find new features and improvements in each version of Cookie.
 
 ### 🚬 New Feature: [User Reports](mod/reports.md)
 - Users can now report other users for misbehavior in the server.
-- Use `mod settings` to configure user reports.
+- Use `/mod settings` to configure user reports.
 
 ### ⚙️ New Feature: [Automations](features/automations.md)
 - Use `/automations` to create custom automations for your server.

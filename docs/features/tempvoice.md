@@ -7,7 +7,7 @@ Let users create their own customizable voice channels.
 2. When a user joins the Join-To-Create channel, a new TempChannel will be created for them.
 3. The channel will be deleted automatically when all users leave.
 
-!!! hint Custom Message Design
+!!! hint "Custom Message Design"
     You can customize the message sent by the TempVoice system using the `/messages` command.
 
 ---

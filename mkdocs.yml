@@ -70,6 +70,8 @@ nav:
     - Verification: mod/verification.md
   - 🧰 Server Features:
     - features/index.md
+    - Applications: features/applications.md
+    - Automations: features/automations.md
     - Birthday: features/birthday.md
     - Giveaway: features/giveaway.md
     - Leveling: features/leveling.md

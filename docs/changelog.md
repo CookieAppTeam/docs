@@ -11,6 +11,40 @@ Here you can find new features and improvements in each version of Cookie.
     [Support Server](https://cookieapp.me/support) for more details about bug reports and fixes.
 
 
+## 2026.5.0
+
+### 📝 New Feature: [Applications](features/applications.md)
+- Use `/application` to create job openings that users can apply for.
+
+### 👥 New Feature: [Team Management](mod/team.md)
+- Use `/team` to manage your server's team roles and their permissions.
+
+### 🚬 New Feature: [User Reports](mod/reports.md)
+- Users can now report other users for misbehavior in the server.
+- Use `mod settings` to configure user reports.
+
+### ⚙️ New Feature: [Automations](features/automations.md)
+- Use `/automations` to create custom automations for your server.
+- Execute actions based on triggers such as user joins, reactions, and more.
+
+### ✅ Verification
+- You can now choose multiple verification roles.
+- Added the option to enable verification for suspicious users only.
+- You can now choose criteria for suspicious users, such as account or username.
+- Added option to enable log messages and automatic roles for suspicious users.
+
+### 📝 Logging
+- New log events: `Channel Created`, `Channel Deleted`, `Channel Updated`.
+- Clarified where log messages for mod actions (auch as warns) are sent.
+
+### 🎫 Ticket System
+- You can now rename tickets channels by using the moderator tools inside a ticket.
+- Ticket moderator statistics are now displayed inside of `/mod user` instead of `/ticket stats.`
+
+### 📊 Stats
+- With `/settings > Advanced`, you can now choose to show invalid voice minutes for `/stats`.
+
+
 ## 2026.4.1
 
 ### 🎨 New Design

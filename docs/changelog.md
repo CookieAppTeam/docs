@@ -35,7 +35,7 @@ Here you can find new features and improvements in each version of Cookie.
 
 ### 📝 Logging
 - New log events: `Channel Created`, `Channel Deleted`, `Channel Updated`.
-- Clarified where log messages for mod actions (auch as warns) are sent.
+- Clarified where log messages for mod actions (such as warns) are sent.
 
 ### 🎫 Ticket System
 - You can now rename tickets channels by using the moderator tools inside a ticket.

@@ -14,7 +14,7 @@ Cookie has a built-in leveling system for **text** and **voice** activity.
 ## 🎟️ [Ticket System](tickets.md)
 Create a ticket panel where users can create support tickets.
 
-- Use `/ticket setup` to enable the ticket system in your server. 
+- Use `/ticket settings` to enable the ticket system in your server.
 
 ---
 
@@ -36,4 +36,4 @@ Host powerful giveaways on your server.
 Send birthday notifications to your server members.
 
 - Server members can set their birthday using the `/birthday` command.
-- Moderators can use `/birthday settings` to select a **channel** for birthday notifications.
+- Moderators can use `/birthday_settings` to select a **channel** for birthday notifications.

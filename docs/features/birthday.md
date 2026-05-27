@@ -1,6 +1,6 @@
 # Birthday Notifications
 
-Cookie can send birthday greeting to channel on your server.
+Cookie can send birthday greetings to a channel on your server.
 
 !!! info "Birthday Notification Time"
     Birthday notifications will be sent at **midnight** in the server's time zone.

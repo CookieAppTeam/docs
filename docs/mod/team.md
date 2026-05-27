@@ -1,5 +1,5 @@
 # Team Management
-Manage roles of your server team and control who can access moderation features.
+Manage the roles of your server team and control who can access moderation features.
 
 ## Setup
 - Use the `/team` command to manage your server team.

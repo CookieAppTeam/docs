@@ -70,7 +70,7 @@ Players take turns to count upwards, starting from 1.
 - Use `/game counting` to configure the counting game.
 
 ### Modes
-There are multiple counting modes available, they can be combined as well.
+There are multiple counting modes available, and they can be combined as well.
 
 <div class="annotate" markdown>
 

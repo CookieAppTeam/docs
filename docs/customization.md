@@ -55,7 +55,7 @@ Depending on the message, you can use different types of variables when editing 
     - `{server_name}` - The name of the current server
     - `{member_count}` - The number of members on the server
     - `{server_icon}` - The server icon URL
-    - `{server_id}` - The role ID
+    - `{server_id}` - The server ID
 
 3.  **Role Variables** - Information about a specific role.
     - `{role_name}` - The role name

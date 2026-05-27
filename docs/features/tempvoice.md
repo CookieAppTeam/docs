@@ -21,11 +21,11 @@ Using `/tempvoice`, you can create a panel that allows users to manage their cha
 ---
 
 ## 🛡️ Permissions
-By default, all permission from the Join-To-Create channel will be inherited to the TempChannels.
+By default, all permissions from the Join-To-Create channel will be inherited by the TempChannels.
 
 ## 🔒 Locking TempChannels
 Once a TempChannel has been locked, the join permission for `@everyone` will be removed.
-However, all users that are already in the channel will keep permission to re-join at any time.
+However, all users that are already in the channel will keep the permission to re-join at any time.
 
 ## 👑 New Owner
 If the owner of a TempChannel leaves for some time, the member with the longest stay in the 

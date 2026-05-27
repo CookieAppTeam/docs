@@ -5,7 +5,7 @@ Show the most active user in the server banner.
 - Use `/banner` to get started.
 
 !!! info
-    Discord required **server level 2** for banners. If your server does not meet this requirement,
+    Discord requires **server level 2** for banners. If your server does not meet this requirement,
     you can send the banner message in a **text channel** instead.
 
 ## Customization

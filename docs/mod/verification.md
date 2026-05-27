@@ -19,4 +19,4 @@ Optionally, you can enable verification only for suspicious users.
     
     - New accounts (created within the past X days)
     - Accounts without a profile picture
-    - Accounts with suspicious usernames, e.g. ending with random numbers
+    - Accounts with suspicious usernames, e.g., usernames ending in random numbers

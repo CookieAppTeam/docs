@@ -17,7 +17,7 @@ Set personal reminders using the `/reminder create` command.
 Generate quote images of messages.
 
 - Simply right-click on a message and select `Apps > Create Quote` to generate a quote image.
-- Customize youte images using `/quote_settings`.
+- Customize your images using `/quote_settings`.
 
 ![Quote Image](https://cdn.cookieapp.me/docs/user/quote.png){ width="450" }
 

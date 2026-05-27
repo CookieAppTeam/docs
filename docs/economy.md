@@ -24,7 +24,7 @@ There are several ways to earn cookies:
 ## 🛒 Shop
 You can spend your cookies on various items in the `/shop`.
 
-- Buy an oven and usee it with `/bake`.
+- Buy an oven and use it with `/bake`.
 - Buy a safe and use it with `/safe` to protect your cookies from thieves.
 
 You can view, use and sell your items using the `/inventory` command.

@@ -21,7 +21,7 @@ Here you can find new features and improvements in each version of Cookie.
 
 ### 🚬 New Feature: [User Reports](mod/reports.md)
 - Users can now report other users for misbehavior in the server.
-- Use `mod settings` to configure user reports.
+- Use `/mod settings` to configure user reports.
 
 ### ⚙️ New Feature: [Automations](features/automations.md)
 - Use `/automations` to create custom automations for your server.
@@ -31,15 +31,15 @@ Here you can find new features and improvements in each version of Cookie.
 - You can now choose multiple verification roles.
 - Added the option to enable verification for suspicious users only.
 - You can now choose criteria for suspicious users, such as account or username.
-- Added option to enable log messages and automatic roles for suspicious users.
+- Added the option to enable log messages and automatic roles for suspicious users.
 
 ### 📝 Logging
 - New log events: `Channel Created`, `Channel Deleted`, `Channel Updated`.
-- Clarified where log messages for mod actions (auch as warns) are sent.
+- Clarified where log messages for mod actions (such as warns) are sent.
 
 ### 🎫 Ticket System
-- You can now rename tickets channels by using the moderator tools inside a ticket.
-- Ticket moderator statistics are now displayed inside of `/mod user` instead of `/ticket stats.`
+- You can now rename ticket channels using the moderator tools inside a ticket.
+- Ticket moderator statistics are now displayed in `/mod user` instead of `/ticket stats`.
 
 ### 📊 Stats
 - With `/settings > Advanced`, you can now choose to show invalid voice minutes for `/stats`.
@@ -69,7 +69,7 @@ Here you can find new features and improvements in each version of Cookie.
 
 ## 2026.4.0
 
-### 🚬 [Moderation](moderation.md)
+### 🚬 [Moderation](mod/index.md)
 Cookie now has a complete moderation system!
 
 - Use `/mod settings` to configure logging, auto-moderation, and much more.

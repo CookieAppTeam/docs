@@ -27,7 +27,7 @@
 ## 🍪 Economy
 
 ??? quote "How do I earn cookies?"
-    You can earn cookies by using claiming your `/daily` reward. 
+    You can earn cookies by claiming your `/daily` reward.
     You can get a job with `/work` or use your oven with `/bake`.
     
 ??? quote "What can I do with cookies?"

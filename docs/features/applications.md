@@ -2,7 +2,7 @@
 
 ## Setup
 1. Use `/application` to create job openings that users can apply for.
-2. Click on `Settings` to manage the channel for applications, the moderator channel and limits.
+2. Click on `Settings` to manage the applications channel, the moderator channel, and limits.
 3. Create a new job opening.
 
 ![Application Settings](https://cdn.cookieapp.me/docs/application/application.png){ width="400" }

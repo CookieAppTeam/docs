@@ -11,7 +11,7 @@ Reward users that use your **server tag** with a role!
 ---
 
 ## 🍻 Other Role Rewards
-Here is an overwiew of other role rewards that Cookie offers:
+Here is an overview of other role rewards that Cookie offers:
 
 | Reward Type                           | Description                                                                         |
 |---------------------------------------|-------------------------------------------------------------------------------------|

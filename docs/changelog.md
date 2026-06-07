@@ -13,6 +13,34 @@ Here you can find new features and improvements in each version of Cookie.
 
 ## 2026.5.0
 
+### 💻 Dashboard Design
+- New dashboard **overview page** with general settings and improved stats.
+- The **sidebar** is now more organized.
+- Several bug fixes and performance improvements.
+
+### ⚙️ Dashboard Features
+- Jump to the corresponding **documentation page** or server leaderboard directly from the dashboard settings.
+- When logging in from a certain page, you will now be **redirected** to that page after login. This is useful for private ticket transcripts or leaderboards.
+- Toggle features on or off directly in the sidebar.
+- The **language** can now be changed on any dashboard page.
+- Added missing settings to various systems, such as tickets, leveling and welcome messages.
+
+### 🔒 Dashboard Permissions
+- Manage read and write **permissions** for a user or role for each dashboard page separately!
+- You can now make the **server leaderboard** private and only visible to server members.
+
+### 📝 New Dashboard Pages
+- Discord Feature Overview
+- Applications
+- Automations
+- Birthday Settings
+- TempVoice Settings
+- Tag Rewards
+- Permissions
+
+
+## 2026.5.0
+
 ### 📝 New Feature: [Applications](features/applications.md)
 - Use `/application` to create job openings that users can apply for.
 

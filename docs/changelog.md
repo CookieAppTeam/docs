@@ -20,8 +20,10 @@ Here you can find new features and improvements in each version of Cookie.
 - Improved settings design for `/automations`.
 
 ### 🚬 Moderation
-Previously, some mod actions were only available through right-clicking a user or using the user info menu.
 - Added commands `/warn`, `/timeout`, `/kick` and `/ban` for quick access to moderation actions.
+- Previously, mod actions could only be accessed via the right-click menu or the user info menu.
+
+### 🚩 User Reports
 - Added `/report` command that server members can use to report users.
 - User reports can now be deleted.
 

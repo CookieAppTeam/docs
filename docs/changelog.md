@@ -11,7 +11,7 @@ Here you can find new features and improvements in each version of Cookie.
     [Support Server](https://cookieapp.me/support) for more details about bug reports and fixes.
 
 
-## 2026.5.0
+## 2026.6.0
 
 ### 💻 Dashboard Design
 - New dashboard **overview page** with general settings and improved stats.

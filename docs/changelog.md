@@ -11,6 +11,26 @@ Here you can find new features and improvements in each version of Cookie.
     [Support Server](https://cookieapp.me/support) for more details about bug reports and fixes.
 
 
+## 2026.6.1
+
+### ⚙️ Automations
+- New `Reaction Added` Trigger, which executes actions when a user reacts to a message.
+- New `Send Message` Action.
+- Multiple channels and roles can now be selected for each automation.
+- Improved settings design for `/automations`.
+
+### 🚬 Moderation
+Previously, some mod actions were only available through right-clicking a user or using the user info menu.
+- Added commands `/warn`, `/timeout`, `/kick` and `/ban` for quick access to moderation actions.
+- Added `/report` command that server members can use to report users.
+- User reports can now be deleted.
+
+### 👥 Team
+- You can now manage dashboard access within Discord using `/team`.
+
+### 📝 Miscellaneous
+- All role changes now show a reason in the audit log, which makes it easier to see why a role was changed.
+
 ## 2026.6.0
 
 ### 💻 Dashboard Design

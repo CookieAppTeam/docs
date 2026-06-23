@@ -20,19 +20,19 @@ Here you can find new features and improvements in each version of Cookie.
 - Improved settings design for `/automations`.
 
 ### 🚬 Moderation
-- Added commands `/warn`, `/timeout`, `/kick` and `/ban` for quick access to moderation actions.
-- Previously, mod actions could only be accessed via the right-click menu or the user info menu.
-- When using `/clear`, the `text` parameter will now search embeds and components as well, not just the message content.
+- Added commands `/warn`, `/timeout`, `/kick` and `/ban` for **quick access** to moderation actions.
+    - Previously, mod actions could only be accessed via the right-click menu or the user info menu.
+- When using `/clear`, the `text` parameter will now search **embeds** and **components** as well, not just the message content.
 
 ### 🚩 User Reports
 - Added `/report` command that server members can use to report users.
-- User reports can now be deleted.
+- User reports can now be **deleted**.
 
 ### 👥 Team
-- You can now manage dashboard access within Discord using `/team`.
+- You can now manage **dashboard access** within Discord using `/team`.
 
 ### 📝 Miscellaneous
-- All role changes now show a reason in the audit log, which makes it easier to see why Cookie changed a role.
+- All role changes now show a **reason** in the **audit log**, which makes it easier to see why Cookie changed a role.
 
 
 ## 2026.6.0

@@ -34,6 +34,7 @@ Here you can find new features and improvements in each version of Cookie.
 ### 📝 Miscellaneous
 - All role changes now show a reason in the audit log, which makes it easier to see why Cookie changed a role.
 
+
 ## 2026.6.0
 
 ### 💻 Dashboard Design

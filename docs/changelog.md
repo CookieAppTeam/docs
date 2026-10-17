@@ -35,6 +35,30 @@ Here you can find new features and improvements in each version of Cookie.
 - All role changes now show a **reason** in the **audit log**, which makes it easier to see why Cookie changed a role.
 
 
+## 2026.10.0
+
+### 📝 Applications
+- Improved design of `/application` settings, they are now much easier to navigate.
+- Application message automatically updates on edit.
+- DM messages can now be edited with `/messages`.
+- Added a cooldown setting when an application was rejected.
+- Roles can now be automatically assigned when an application is accepted.
+- Improved log threads to work more reliably and show more information about the application.
+
+### 🚬 Moderation Blacklist
+- Improved blacklist in `/mod settings` and separated blacklist for moderation and logs.
+- You can now exclude channels from triggering specific log events.
+
+### 🔊 TempVoice
+- When a TempVoice channel is created, the settings message is now automatically sent in the channel chat.
+
+### 🎫 Ticket System
+- Added setting to enable or disable user DMs `/ticket settings > Advanced`.
+
+### 🎲 Games
+- Added new design for hangman games.
+
+
 ## 2026.6.0
 
 ### 💻 Dashboard Design
